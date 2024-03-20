@@ -36,7 +36,7 @@ int main(int argc, char **argv)
 	total = total % cents[i];
 	}
 	}
-	}	
+	}
 	if (total == 1)
 	count++;
 	}
